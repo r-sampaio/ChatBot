@@ -1,2 +1,0 @@
-pip install pycep-correios
-pip install python-correios
